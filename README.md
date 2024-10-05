@@ -35,22 +35,29 @@ Follow these steps to set up the application on your system:
 
 
 2. **Change into the project directory:**
-cd unwanted-app-remover
+
+   cd unwanted-app-uninstaller
 
 3. **Install the required packages:**
-sudo apt install python3 python3-tk python3-apt
+
+   sudo apt install python3 python3-tk python3-apt
 
 4. **Run the application:**
-python3 apps_uninstaller.py
 
-**Usage**
+   python3 apps_uninstaller.py
+
+
+**Usage:**
+
 1. Open the application.
 2. Select the applications you want to remove from the list.
 3. Click the "Remove Selected Apps" button.
 4. Confirm your selection when prompted.
 5. The selected applications will be removed.
 
-**Contributing**
+
+**Contributing:**
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
