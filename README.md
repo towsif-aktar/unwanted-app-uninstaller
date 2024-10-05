@@ -32,21 +32,19 @@ Follow these steps to set up the application on your system:
 
    ```bash
    git clone https://github.com/towsif-aktar/unwanted-app-uninstaller.git
-
-
+   
 2. **Change into the project directory:**
 
    ```bash
-      cd unwanted-app-uninstaller
+   cd unwanted-app-uninstaller
 
 3. **Install the required packages:**
    ```bash
-      sudo apt install python3 python3-tk python3-apt
+   sudo apt install python3 python3-tk python3-apt
 
 4. **Run the application:**
    ```bash
-      python3 apps_uninstaller.py
-
+   python3 apps_uninstaller.py
 
 **Usage:**
 
