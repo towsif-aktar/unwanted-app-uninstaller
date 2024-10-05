@@ -20,7 +20,7 @@ This is a simple GUI application for removing unwanted applications from Kali Li
 
 ## Requirements
 
-- Python 3
+- `Python 3`
 - `tkinter` library
 - `python3-apt` package
 
@@ -36,15 +36,15 @@ Follow these steps to set up the application on your system:
 
 2. **Change into the project directory:**
 
-   cd unwanted-app-uninstaller
+   `cd unwanted-app-uninstaller`
 
 3. **Install the required packages:**
 
-   sudo apt install python3 python3-tk python3-apt
+   `sudo apt install python3 python3-tk python3-apt`
 
 4. **Run the application:**
 
-   python3 apps_uninstaller.py
+   `python3 apps_uninstaller.py`
 
 
 **Usage:**
