@@ -36,15 +36,16 @@ Follow these steps to set up the application on your system:
 
 2. **Change into the project directory:**
 
-   `cd unwanted-app-uninstaller`
+   ```bash
+      cd unwanted-app-uninstaller
 
 3. **Install the required packages:**
-
-   `sudo apt install python3 python3-tk python3-apt`
+   ```bash
+      sudo apt install python3 python3-tk python3-apt
 
 4. **Run the application:**
-
-   `python3 apps_uninstaller.py`
+   ```bash
+      python3 apps_uninstaller.py
 
 
 **Usage:**
