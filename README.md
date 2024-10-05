@@ -59,7 +59,7 @@ Follow these steps to set up the application on your system:
 
 **Contributing:**
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/towsif-aktar/unwanted-app-uninstaller?tab=MIT-1-ov-file) file for details.
 
 
 
